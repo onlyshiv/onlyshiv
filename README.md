@@ -28,7 +28,7 @@
 
 ---
 
-### 💻 Languages and Tools:
+### 📌 Languages and Tools:
 
 <p align="left">
   <!-- Core Stack -->
@@ -68,15 +68,22 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyshiv&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&bg_color=00000000" width="48%" alt="Shiv's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyshiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" alt="Top Languages"/>
-</div>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-<br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=onlyshiv&show_icons=true&theme=radical&border_color=ff007f&border_radius=10&hide_title=false&include_all_commits=true&count_private=true"
+    width="45%" 
+    style="border: 2px solid #ff007f; border-radius: 10px; padding: 10px;"
+    alt="GitHub Stats"
+  />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyshiv&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyshiv&layout=compact&theme=radical&border_color=ff007f&border_radius=10"
+    width="45%" 
+    style="border: 2px solid #ff007f; border-radius: 10px; padding: 10px;"
+    alt="Top Languages"
+  />
+
 </div>
