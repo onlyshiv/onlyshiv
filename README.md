@@ -68,10 +68,15 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<!-- Use https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlyshiv&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyshiv&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyshiv&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&bg_color=00000000" width="48%" alt="Shiv's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyshiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyshiv&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+</div>
