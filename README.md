@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
@@ -59,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jirasoftware.svg" width="40" alt="Jira"/>
   
   <!-- Others -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -73,14 +73,14 @@
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=onlyshiv&show_icons=true&theme=radical&border_color=ff007f&border_radius=10&hide_title=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=onlyshiv&show_icons=true&theme=github_dark&border_color=ff007f&border_radius=10&hide_title=false&include_all_commits=true&count_private=true"
     width="45%" 
     style="border: 2px solid #ff007f; border-radius: 10px; padding: 10px;"
     alt="GitHub Stats"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyshiv&layout=compact&theme=radical&border_color=ff007f&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyshiv&layout=compact&theme=github_dark&border_color=ff007f&border_radius=10"
     width="45%" 
     style="border: 2px solid #ff007f; border-radius: 10px; padding: 10px;"
     alt="Top Languages"
