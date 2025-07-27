@@ -72,12 +72,12 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <img 
+  <!--img 
     src="https://github-readme-stats.vercel.app/api?username=onlyshiv&show_icons=true&theme=github_dark&border_color=ff007f&border_radius=10&hide_title=false&include_all_commits=true&count_private=true"
     width="45%" 
     style="border: 2px solid #ff007f; border-radius: 10px; padding: 10px;"
     alt="GitHub Stats"
-  />
+  /-->
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyshiv&layout=compact&theme=github_dark&border_color=ff007f&border_radius=10"
