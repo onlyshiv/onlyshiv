@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shiv</h1>
-<-h3 align="center">Software Enginner</h3-->
+<h3 align="center">Software Enginner</h3>
 
 ---
 
